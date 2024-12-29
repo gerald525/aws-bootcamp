@@ -74,5 +74,3 @@ My second article about the [infrastructure as code](https://blog.marikabergman.
 ## Grading
 
 The bootcamp has been completed and I have received grading from ExampPro. My application successfully passed the automated validator with a 100% score, and I also received positive feedback regarding the quality of my documentation.
-
-![Certificate](journal/assets/certificate.PNG)
